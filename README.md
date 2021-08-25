@@ -1,6 +1,6 @@
 # gh deno-example
 
-Example for yskszk63/gh-deno
+Example for [yskszk63/gh-deno](https://github.com/yskszk63/gh-deno)
 
 ## License
 
